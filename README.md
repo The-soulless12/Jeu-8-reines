@@ -1,8 +1,8 @@
-# Jeu-8-reines
-Solveur du problème des 8 reines implémenté en Python, utilisant un algorithme de backtracking pour trouver et visualiser toutes les solutions possibles sur un échiquier.
+# Jeu-N-reines
+Solveur du problème des N reines implémenté en Python, utilisant un algorithme de backtracking pour trouver et visualiser toutes les solutions possibles sur un échiquier.
 
 # Fonctionnalités
-- Résolution du problème des 8 reines en utilisant la méthode de backtracking.
+- Résolution du problème des N reines en utilisant la méthode de backtracking.
 - Visualisation des solutions avec des symboles (🔴 pour une reine et ⚪ pour une case vide).
 
 # Structure du Projet
